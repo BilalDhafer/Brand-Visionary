@@ -43,7 +43,7 @@ export default function Projects() {
           <div className="label">Projects</div>
           <h2>Some of my recent work</h2>
         </div>
-        <div className="years">(2022 — 2026)</div>
+        <div className="years">We are looking to creat more you looking for</div>
       </div>
 
       <div ref={gridRef} className={`project-grid reveal-stagger${gridVisible ? ' in' : ''}`}>
