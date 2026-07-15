@@ -3,9 +3,9 @@ import useReveal from '../hooks/useReveal.js'
 
 const LOGOS = [
    '/logo.png',
-  '/logo.png',
-  '/logo.png',
-  '/logo.png',
+  '/logo (2).png',
+  '/logo (3).png',
+  '/logo (4).png',
   '/logo.png',
   '/logo.png',
   '/logo.png',

@@ -15,10 +15,62 @@ const PROJECTS = [
   ],
 },
   {
-    name: 'Qafza',
-    desc: 'Building a brand from the ground up. I developed the visual DNA for Qafza.',
+    name: 'Ali Ihsan Photography',
+    desc: 'Stunning Arabic Calligraphy Logo with a Professional Business Card Design',
     images: [
-      'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=900&q=80',
+      '/project2-1.png',
+    '/project2-2.png',
+    '/project2-3.png',
+    '/project2-4.png',
+    ],
+  },
+     {
+    name: 'UR Legal Solutions',
+    desc: 'Stunning Mascot Logo for UR Legal Solutions company',
+    images: [
+      '/project3-1.png',
+    '/project3-2.png',
+    '/project3-3.png',
+    ],
+  },
+     {
+    name: 'EMPT',
+    desc: 'EMPT',
+    images: [
+      '/project4-1.png',
+    '/project4-2.png',
+    '/project4-3.png',
+    '/project4-4.png',
+    ],
+  },
+     {
+    name: 'EMPT',
+    desc: 'EMPT',
+    images: [
+      '/project5-1.png',
+    '/project5-2.png',
+    '/project5-3.png',
+    '/project5-4.png',
+    ],
+  },
+     {
+    name: 'EMPT',
+    desc: 'EMPT',
+    images: [
+      '/project6-1.png',
+    '/project6-2.png',
+    '/project6-3.png',
+    '/project6-4.png',
+    ],
+  },
+     {
+    name: 'EMPT',
+    desc: 'EMPT',
+    images: [
+      '/project7-1.png',
+    '/project7-2.png',
+    '/project7-3.png',
+    '/project7-4.png',
     ],
   },
 ]
@@ -41,7 +93,7 @@ export default function Projects() {
       <div ref={headRef} className={`section-head reveal${headVisible ? ' in' : ''}`}>
         <div>
           <div className="label">Projects</div>
-          <h2>Some of my recent work</h2>
+          <h2>Some of Our work</h2>
         </div>
         <div className="years">We are looking to creat more you looking for</div>
       </div>

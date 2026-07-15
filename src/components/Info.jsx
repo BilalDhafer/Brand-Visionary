@@ -22,7 +22,7 @@ export default function Info() {
         <div className="founder-text">
           <div className="founder-label">Meet the Founder</div>
           <h3>Bilal D Saleh</h3>
-          <div className="founder-role">Founder</div>
+          <div className="founder-role">Founder Of Brand Visionary</div>
           <p className="founder-quote">
             I believe every great business deserves a brand with purpose, clarity, and lasting impact.
           </p>
